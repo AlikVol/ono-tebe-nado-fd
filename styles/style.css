@@ -89,7 +89,7 @@
 }
 
 .cover__description {
-    padding: 106px 50px 100px 50px;
+    padding: 106px 50px 0px 50px;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -98,6 +98,7 @@
 }
 
 .cover__description-text {
+    margin-bottom: 50px;
     word-spacing: 13px;
     font-size: 22px;
     text-transform: uppercase;
@@ -106,6 +107,7 @@
 
 .bet-button {
     border: 1px solid #fff;
+    margin-bottom: 50px;
     min-width: 256px;
     min-height: 51px;
     font-weight: 500;
@@ -209,7 +211,7 @@
 /*Секция об аукционе*/
 
 .about {
-    min-height: 595px;
+    height: 595px;
     padding: 35px 24px 180px 24px;
 }
 
@@ -260,7 +262,7 @@
 .footer {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
-    padding: 0 50px 88px 50px;
+    padding: 180px 50px 88px 50px;
     width: 100%;
     color: #000;
     font-size: 18px;
