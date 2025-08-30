@@ -212,7 +212,7 @@
 
 .about {
     height: 595px;
-    padding: 35px 24px 180px 24px;
+    padding: 0px 24px 180px 24px;
 }
 
 .about__column {
@@ -273,6 +273,8 @@
 .footer__address {
     justify-self: start;
     text-underline-offset: 5px;
+    font-style: normal;
+    padding-bottom: 38px;
 }
 
 .footer__menu-list {
