@@ -70,12 +70,13 @@
 }
 
 .aligned-text {
-    display: block; 
+    display: block;
 }
 
 .aligned-text_left {
     text-align: start;
 }
+
 .aligned-text_center {
     text-align: center;  
 }
