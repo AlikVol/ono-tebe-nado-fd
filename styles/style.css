@@ -40,6 +40,7 @@
     font-style: normal;
     max-width: 240px;
     justify-self: end;
+    padding-right: 30px;
 
 }
 
@@ -88,7 +89,7 @@
 }
 
 .cover__description {
-    padding: 106px 50px 50px 50px;
+    padding: 106px 50px 100px 50px;
     display: flex;
     justify-content: space-between;
     flex-direction: row;
@@ -151,7 +152,7 @@
 
 .card {
     width: 334px;
-    min-height: 596px;
+    height: 596px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
