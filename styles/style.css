@@ -63,7 +63,7 @@
 }
 
 .cover__title {
-  padding: 165px 10px 0px 50px;
+  padding: 165px 17px 0px 50px;
   font-weight: 700;
   font-size: 100px;
   letter-spacing: 0.3em;
@@ -91,7 +91,7 @@
 }
 
 .cover__description {
-  padding: 120px 50px 0px 50px;
+  padding: 100px 50px 20px 50px;
   display: flex;
   justify-content: space-between;
   flex-direction: row;
@@ -243,7 +243,7 @@
 }
 
 .about__title {
-  padding: 100px 340px 100px 0px;
+  padding: 100px 365px 100px 0px;
   font-weight: 700;
   font-size: 40px;
   text-transform: uppercase;
@@ -265,7 +265,7 @@
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 170px 50px 82px 50px;
+  padding: 180px 50px 82px 50px;
   width: 100%;
   color: #000;
   font-size: 18px;
