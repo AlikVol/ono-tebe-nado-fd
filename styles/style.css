@@ -217,6 +217,8 @@
   display: grid;
   grid-template-columns: 345px 1fr;
   grid-template-rows: 240px 1fr;
+  align-self: center;
+  justify-self: center;
   justify-items: center;
 }
 
@@ -259,8 +261,9 @@
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  padding: 180px 50px 0px 50px;
+  padding: 180px 50px 82px 50px;
   width: 100%;
+  min-height: 180px;
   color: #000;
   font-size: 18px;
   place-content: center;
@@ -270,7 +273,7 @@
   justify-self: start;
   text-underline-offset: 5px;
   font-style: normal;
-  padding-bottom: 38px;
+  padding-bottom:px;
   line-height: 1.5;
 }
 
